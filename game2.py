@@ -321,7 +321,7 @@ while startgame:
 
     #Level 3 Boss
     game.over = False
-    Rbosswalk.health = 400
+    Rbosswalk.health = 500
     u = 0
     #u helps determine the location where the boss slug will appear
     left.stop()
