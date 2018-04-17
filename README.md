@@ -8,7 +8,7 @@ Freshman Project, Programming Technologies
 
 <img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/screen.PNG">
 <img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/starting.PNG">
-<img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/level1.PNG">
+
 <img src="">
 <img src="">
 <hr>
