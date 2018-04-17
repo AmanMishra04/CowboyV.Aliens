@@ -5,10 +5,9 @@ Freshman Project, Programming Technologies
 <a href="https://www.python.org/downloads/">Python</a><br>
 <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">PyGame</a><br>
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
-<img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/level1.PNG">
 <img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/screen.PNG">
 <img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/starting.PNG">
-
+<img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/level1.PNG">
 <img src="">
 <img src="">
 <hr>
