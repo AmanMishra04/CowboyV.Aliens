@@ -7,7 +7,7 @@ Freshman Project, Programming Technologies
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
 <img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/screen.PNG">
-<img src="">
+<img src="https://github.com/Ryantron/CowboyV.Aliens/blob/master/starting.PNG">
 <img src="">
 
 <hr>
